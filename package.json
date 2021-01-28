@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "小程序开发基础骨架",
   "main": "app.js",
-  "dependencies": {
-    "chokidar": "^3.4.3",
-    "sass": "^1.30.0"
+  "dependencies": {},
+  "devDependencies": {
+    "chokidar": "^3.5.1",
+    "sass": "^1.32.5"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "serve": "node server.js"
